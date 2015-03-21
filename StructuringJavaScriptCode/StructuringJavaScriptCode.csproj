@@ -67,6 +67,8 @@
   <ItemGroup>
     <Content Include="index.html" />
     <Content Include="main.js" />
+    <Content Include="prototype.html" />
+    <Content Include="prototype.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
