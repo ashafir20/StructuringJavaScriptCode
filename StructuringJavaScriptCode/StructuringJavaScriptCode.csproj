@@ -65,8 +65,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="index.html" />
-    <Content Include="main.js" />
+    <Content Include="module.html" />
+    <Content Include="closure.html" />
+    <Content Include="closure.js" />
+    <Content Include="module.js" />
     <Content Include="prototype.html" />
     <Content Include="prototype.js" />
     <Content Include="Web.config" />
