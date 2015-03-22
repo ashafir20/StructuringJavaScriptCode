@@ -71,6 +71,8 @@
     <Content Include="module.js" />
     <Content Include="prototype.html" />
     <Content Include="prototype.js" />
+    <Content Include="revealing-module.html" />
+    <Content Include="revealing-module.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
