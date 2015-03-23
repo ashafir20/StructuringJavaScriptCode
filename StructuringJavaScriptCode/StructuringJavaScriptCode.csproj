@@ -65,6 +65,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="LocalStorageRevealingModuleExample.js" />
     <Content Include="module.html" />
     <Content Include="closure.html" />
     <Content Include="closure.js" />
@@ -73,6 +74,8 @@
     <Content Include="prototype.js" />
     <Content Include="revealing-module.html" />
     <Content Include="revealing-module.js" />
+    <Content Include="revealing-protoype.html" />
+    <Content Include="revealing-protoype.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
