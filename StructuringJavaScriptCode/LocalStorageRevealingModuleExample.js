@@ -1,14 +1,15 @@
 ﻿$(document).ready(function() {
-    var ls = new LocalStorage();
+    var ls = new myNS.LocalStorage();
     ls.loadSettings();
 });
 
+var myNS = myNS || {};
 
-var LocalStorage = function () {
+myNS.LocalStorage = function () {
 
 };
 
-LocalStorage.prototype = function() {
+myNS.LocalStorage.prototype = function () {
     //private members
     var loadSettings = function() {
 
